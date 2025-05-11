@@ -4,15 +4,14 @@
 
 `simpleserv-host` is designed to work alongside the [SimpleServ Client](https://github.com/reinaeiry/simpleserv-client) for a seamless remote system control experience. The **host** application runs on your local machine, providing a web-based control panel for interacting with the **client** running on the target machine. 
 
+![Remote System Status Image](https://cdn.discordapp.com/attachments/1273814692845981777/1371068558209060874/image.png?ex=6821ca99&is=68207919&hm=cf12911b818c8783e6b781a3f727656508e3a43c35d6579d0d21d1adc9447d5c&)
+
 ---
 
 ## 🚀 Overview
 
 `simpleserv-host` is the server-side application that provides a web-based control panel for managing and interacting with a remote system. It connects to the client-side application (`simpleserv-client`) to display system status, execute commands, and provide power management options (Power Off, Restart).
 It serves as the dashboard interface for monitoring system performance, running commands, and triggering actions remotely.
-
-![Remote System Status Image](https://cdn.discordapp.com/attachments/1273814692845981777/1371068558209060874/image.png?ex=6821ca99&is=68207919&hm=cf12911b818c8783e6b781a3f727656508e3a43c35d6579d0d21d1adc9447d5c&)
-
 
 ## 🔧 Installation
 
